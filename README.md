@@ -12,7 +12,7 @@
  scrapy 2.11.2 <br />
 <ins>Usage:</ins><br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; scrapy < command> [options] [args]<br />
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; scrapy crawl kaldata (will start the crawling process)<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; scrapy crawl kaldata_spider (will start the crawling process)<br />
 <ins>Available commands:</ins><br />
  bench&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Run quick benchmark test<br />
  check&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Check spider contracts<br />
