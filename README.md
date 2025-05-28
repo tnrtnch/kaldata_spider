@@ -5,7 +5,7 @@
 
 # Requirements
  Python 3.12 <br />
- Sqlite3 - Sqlite3 was used as the database for the data we extracted.<br />
+ Sqlite3 - sqlite3 was used as the database for the data we extracted.<br />
  Requests<br />
  pip 24.2<br />
  
