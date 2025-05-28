@@ -1,5 +1,5 @@
 # My spider
- This scrapy spider helps us for download the articles in all tabs of the www.kaldata.com
+ This scrapy spider helps us for download the articles from all tabs of the www.kaldata.com
  site. It covers only the last 3 pages of all tabs. All collected data is stored
  in the Sqlite3 database.
 
