@@ -7,7 +7,7 @@
  Python 3.12 - I am using Python 3.12 version on my computer.<br />
  Sqlite3 - Sqlite3 was used as the database for the data we extracted.<br />
  Requests<br />
- pip 24.2 - My pip version is 24.2<br />
+ pip 24.2 - my pip version is 24.2<br />
  
  scrapy 2.11.2 <br />
 <ins>Usage:</ins><br />
