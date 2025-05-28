@@ -9,7 +9,7 @@
  Requests<br />
  pip 24.2 - My pip version is 24.2<br />
  
- scrapy 2.11.2 - Let's talk about Scrapy features a little bit.:<br />
+ scrapy 2.11.2 <br />
 <ins>Usage:</ins><br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; scrapy < command> [options] [args]<br />
 <ins>Available commands:</ins><br />
