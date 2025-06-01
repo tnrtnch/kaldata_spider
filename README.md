@@ -34,6 +34,3 @@
  jsonschema 4.23.0 - We validate the data type by comparing the content.json and content-validation.json files<br />
 
  To work properly we need to set ROBOTSTXT_OBEY to false in the settings.py file.
-
-# Thanks
- Feel free to leave a comment and know that I am open to criticism. I hope my project did not waste your time.
